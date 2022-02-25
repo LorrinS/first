@@ -8,7 +8,7 @@ import javax.swing.border.EmptyBorder;
 
 import javax.swing.*;
 import java.awt.*;
-
+//test edit
 /**
 File Name:	AboutMe
 Programmer:	Lorrin Shen
